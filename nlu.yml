@@ -603,6 +603,59 @@ example:  |
     - Can a student have proper study-life balance at CKY?
     - What is the importance of a feedback for CKY?
     - What actions does CKY takes in response to the feedback?
+- intent : Can_I
+    - Is Web development included in starter course for grade 8-10?
+    - Is Web development included in intermediate course for grade 8-10?
+    - Is Web development included in professional course for grade 8-10?
+    - Can I exclude Web development from starter course for grade 8-10?
+    - Can I exclude Web development from intermediate course for grade 8-10?
+    - Can I exclude Web development from professional course for grade 8-10?
+    - Can I exclude Web development from starter course for grade 8-10 and get a concession?
+    - Can I exclude Web development from intermediate course for grade 8-10 and get a concession?
+    - Can I exclude Web development from professional course for grade 8-10 and get a concession?
+    - Is Web development included in starter course for grade 10+?
+    - Is Web development included in intermediate course for grade 10+?
+    - Is Web development included in professional course for grade 10+?
+    - Can I exclude Web development from starter course for grade 10+?
+    - Can I exclude Web development from intermediate course for grade 10+?
+    - Can I exclude Web development from professional course for grade 10+?
+    - Can I exclude Web development from starter course for grade 10+ and get a concession?
+    - Can I exclude Web development from intermediate course for grade 10+ and get a concession?
+    - Can I exclude Web development from professional course for grade 10+ and get a concession?
+    - Is Mobile app development included in starter course for grade 1-4?
+    - Is Mobile app development included in intermediate course for grade 1-4?
+    - Is Mobile app development included in professional course for grade 1-4?
+    - Can I exclude Mobile app development from the course?
+    - Can I exclude Mobile app development from starter course for grade 1-4?
+    - Can I exclude Mobile app development from intermediate course for grade 1-4?
+    - Can I exclude Mobile app development from professional course for grade 1-4?
+    - Can I exclude Mobile app development from the course and get a concession?
+    - Can I exclude Mobile app development from starter course for grade 1-4 and get a concession?
+    - Can I exclude Mobile app development from intermediate course for grade 1-4 and get a concession?
+    - Can I exclude Mobile app development from professional course for grade 1-4 and get a concession?
+    - Is Mobile app development included in starter course for grade 5-7?
+    - Is Mobile app development included in intermediate course for grade 5-7?
+    - Is Mobile app development included in professional course for grade 5-7?
+    - Can I exclude Mobile app development from starter course for grade 5-7?
+    - Can I exclude Mobile app development from intermediate course for grade 5-7?
+    - Can I exclude Mobile app development from professional course for grade 5-7?
+    - Can I exclude Mobile app development from starter course for grade 5-7 and get a concession?
+    - Can I exclude Mobile app development from intermediate course for grade 5-7 and get a concession?
+    - Can I exclude Mobile app development from professional course for grade 5-7 and get a concession?
+    - Is Mobile app development included in starter course for grade 8-10?
+    - Is Mobile app development included in intermediate course for grade 8-10?
+    - Is Mobile app development included in professional course for grade 8-10?
+    - Can I remove Mobile app development from starter course for grade 8-10?
+    - Can I remove Mobile app development from intermediate course for grade 8-10?
+    - Can I remove Mobile app development from professional course for grade 8-10?
+    - Can I remove Mobile app development from starter course for grade 8-10 and get discount?
+    - Can I remove Mobile app development from intermediate course for grade 8-10 and get discount?
+    - Can I remove Mobile app development from professional course for grade 8-10 and get discount?
+    - Is Mobile app development included in starter course for grade 10+?
+    - Is Mobile app development included in intermediate course for grade 10+?
+    - Is Mobile app development included in professional course for grade 10+?
+    - Can I remove Mobile app development from starter course for grade 10+?
+
     
       
   
