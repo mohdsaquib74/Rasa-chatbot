@@ -91,13 +91,7 @@ nlu:
     - am I talking to a bot?
     - am I talking to a human?
 
-- intent: abstract_type
-  examples: |
-    - Can my kid get a chance in NASA?
-    - Can my kid get a chance in ISRO?
-    - Can my kid get a chance in Google or Microsoft?
-    - Can my kid get a chance in Google for paid internship?
-    - Can my kid get a chance in Microsoft for paid internship?
+
   
   -intent: Coding_Future
    examples:
@@ -484,6 +478,11 @@ nlu:
       -Is an 8-10 year old student a separate batch or not?
       -Are there any coding contests conducted?
       -Do you give study material?
+      - Can my kid get a chance in NASA?
+      - Can my kid get a chance in ISRO?
+      - Can my kid get a chance in Google or Microsoft?
+      - Can my kid get a chance in Google for paid internship?
+      - Can my kid get a chance in Microsoft for paid internship?
       - is python user friendly
    
 - intent: word_coding
