@@ -94,16 +94,26 @@ nlu:
 
   
   -intent: Coding_Future
-   examples:
+   examples: |
      - How can coding help my daughter for future jobs?
      - How can coding help my son for future jobs?
   
   -intent: Python_Scope
-   examples:
+   examples:  |
      - What is scope of python?
+     - what is future scope of python for 8 grade 
+     - what is future scope of Python for 9 grade
+     - what is future scope of Python for 10 grade
+     - what is the future scope of python? 
+     - what are the benefits of learning python programming? 
+     - what are the different fields in which my ward can excel after learning python? 
+     - where is python used?
+
+
+
 
  -intent: Course_Duration
-  examples:
+  examples:  |
     - How much time does it take for someone to become an expert in Machine Learning? 
     - How much time does it take for someone to become an expert in Mobile App development ? 
     - How much time does it take for someone to become an expert in artificial intelligence ? 
@@ -123,7 +133,15 @@ nlu:
 
 -intent: About_Python
  examples:
-   - why should my child learn python compared to any other language
+   - why should my child learn python compared to any other language.
+   - What is Python?
+   - Is python the right language for my child?
+   -  Why is the Python for Kids a Perfect Programming Language?
+    - Is Python easy to learn?
+    - why should I consider learning python programming language before machine learning? and not C, C++ or java 
+    - How useful is python
+    - Why is Python good for kids?
+
    
 
 -intent: Basic_Course_Content
@@ -178,7 +196,7 @@ nlu:
    - What is HTML?
    - How is html useful?
 
--intents: HTML_Scope
+-intents: HTML_
  examples:
    - what is the future scope of HTML? 
 
@@ -407,8 +425,19 @@ nlu:
           -Is python programming there in professional course for grade 8-10?
           -Is python programming there in starter course for grade 10+?
           -can we change batch timings?
-           
-
+          - My subscription got expired in 6 months only. How it can expired as I have taken the subscription for 1 year? Please do something about this.
+          - I am unable to see the homework section or any other section in my student portal, the only visible section is the test series and due to this I can not take my weekly test.
+          - After logging in my student portal account , my course is showin g to be of class's 2 instead of class 1 course.
+          - I am not able to access the video lectures.
+          - Can you please give me your number?
+          - Facing Issue With Account Preparation
+          - I am not able to register
+          - I am not able to solve the captcha while signing up or the course
+          - What is cost for 12 months Scratch course?
+          - What is the cost for advance Scratch course?
+          - What is the cost for advance java course?
+          - what are the charges for an professional course in python ?
+          
 - intent: scope_high
     examples:  |
       - What is the need for game app development?
@@ -484,6 +513,10 @@ nlu:
       - Can my kid get a chance in Google for paid internship?
       - Can my kid get a chance in Microsoft for paid internship?
       - is python user friendly
+      - is it possible to learn python in 10 grade
+      - is it possible to learn python in 8 grade
+      - is it possible to learn python in 9 grade
+
    
 - intent: word_coding
     examples:  |
@@ -508,6 +541,10 @@ nlu:
       - Code is important to everything that happens on a computer. Got it. Now what in the world is it? 
       - How will coding help my kids in school?
       - what are the benefits of learning programming? 
+      - How could programming help my 10th standard kid in future?
+      - How could programming help my 9th standard kid in future?
+      - How could programming help my 8th standard kid in future?
+
         
 - intent: about_app
    examples: |
@@ -946,7 +983,7 @@ nlu:
     - who is the founder of code karo yaaro ?
  
 - intent: Upgrade_course
-  examples:
+  examples:  |
     - I want to transfer my kid from Game development to Artificial Intelligence. Is this possible ?
     - I want to transfer my kid from Java programming to html. Is this possible ?
     - I want to add Web development course to my pack. Is this possible ?
@@ -959,7 +996,7 @@ nlu:
     - I want to add Java and python programming languages to my pack. Is this possible ?
     
 - intent: About_phone_and_laptop
-  example:
+  examples:  |
     - Can I attend class on android phones?
     - Can I attend class on  iphones?
     - I don't  have a laptop. Can I join in classes with my phone?
@@ -968,65 +1005,65 @@ nlu:
   
     
 - intent: About_assignment
-  example :
+  example :  |
     - is there any assignment provided?
     
 - intent: About_coding
-  examples :
+  examples :  |
     - Can my kid learn coding on his/her own?
    
 - intent: About_feedback
-  example :
+  example :  |
      - do you have any feedback of students?
      
 - intent: About_trial_classes
-  example :
+  example :   |
      - is there any trial class ?
      
 - intent: About_blockchain
-  example :
+  example :  |
      - Is there a course related to blockchain on your platform? 
      
 - intent: About_subscription
-  example :
+  example :  |
      - I have two children. Do I have to buy two subscriptions?
      
 - intent: About_intermediate_pack
-  example :
+  example :  |
      - what is intermediate pack for grade 1-4?
      - what is intermediate pack for grade 5-7?
      - what is intermediate pack for grade 8-10?
      - what is intermediate pack for grade 10+?
      
 - intent: About_professional_pack
-  example :
+  example :  |
      - what is professional pack for grade 1-4?
      - what is professional pack for grade 5-7?
      - what is professional pack for grade 8-10?
      - what is professional pack for grade 10+?
      
 - intent: About_starter_pack
-  example :
+  example :  |
      - what is starter pack for grade 1-4?
      - what is starter pack for grade 5-7?
      - what is starter pack for grade 8-10?
      - what is starter pack for grade 10+?
      
 - intent: About_interface
-  example :
+  example :  |
      - is the interface user friendly?
      - is the interface good enough for beginners?
      
  - intent: About_internet
-   example :
+   example :  |
       - Do I need internet connection as well?
       
 - intent: About_basic_course
-  example :
+  example :  |
      - Is mobile app development there in the basic course plan?
      
 - intent : about_join_live_classes
-  example :
+  example :  |
      - How to join Live classes for class 8?
      - How to join Live classes for class 9?
      - How to join Live classes for class 10?
@@ -1050,7 +1087,7 @@ nlu:
 
 
 - intent : Ask_subscription_expired
-  examples :
+  examples :  |
      - My Codekaro yaaro 1st class subscription expired please restart it
      - My Codekaro yaaro 2nd class subscription expired please restart it
      - My Codekaro yaaro 3rd class subscription expired please restart it
@@ -1060,7 +1097,7 @@ nlu:
      - My Codekaro yaaro 7th class subscription expired please restart it
      
 - intent : Ask_logical_skills_development 
-  examples :
+  examples :  |
      - What is dance with coding?
      - What is artist lab?
      - How will you build logic for my kid?
