@@ -405,6 +405,17 @@ steps:
 - intent: contact_instructor
 - action: utter_contact_instructor
 
+- story:
+steps:
+- intent: Python_Scope
+- action: utter_Python_Scope
+
+- story:
+steps:
+- intent: About_Python
+- action: utter_About_Python
+
+
 - story: about_assignment
 steps:
 - intent: About_assignment
