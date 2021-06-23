@@ -60,6 +60,15 @@ intents:
   - collaboration
   - carrer
   - contact_us
+  - scope_high
+  - per_batch_teacher
+  - help_my_kid
+  - opt_offline
+  - where_certificate
+  - Yes_
+  - word_coding
+  - value_added_course
+  - contact_instructor
   - upgrade_course
   - About_phone_and_laptop
   - About_assignment
@@ -253,6 +262,15 @@ responses:
   utter_yes:
   - text: yes,for sure.
   
+  utter_word_coding:
+  - text: Our courses are designed to make word code fun by dance, games and many more fantastic things.
+  
+  utter_value_added_course:
+  - text: Our professional teachers are best in teaching coding skills as well as they are great human from which kids get good human values.
+  
+  utter_contact_instructor:
+  - text: Our quick resolution team is 24*7 available for resolve any queries or question
+
   utter_assignment:
   - text: "Yes assignment will be assigned"
   
