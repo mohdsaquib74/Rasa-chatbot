@@ -91,8 +91,6 @@ nlu:
     - am I talking to a bot?
     - am I talking to a human?
 
-
-  
   -intent: Coding_Future
    examples: |
      - How can coding help my daughter for future jobs?
@@ -145,20 +143,20 @@ nlu:
    
 
 -intent: Basic_Course_Content
- examples:
+ examples:  |
    - What is given in Basic course?
    - What is given in Starter course?
 
 -intent: About_Intermediate_and_Advance_Course
- examples:
+ examples:  |
    - what is differece between advance  and intermediate pack?
 
 -intent: About_Intermediate_and_Professional_Course
- examples:
+ examples:  |
    - What's the difference between Intermediate and Professional course?
 
 -intent: Course-Package
- examples: 
+ examples:   |
    - what are you going to teach in scratch programming for Grade 1-4  in starter package? 
    - What does intermediate pack for 8th class include?
    - What does intermediate pack for 9th class include?
@@ -166,16 +164,16 @@ nlu:
 
 
 -intents: Live_Session
- examples:
+ examples:  |
   -What are the live interactive sessions?
 
 -intents: Course_Transfer
- examples:
+ examples:  |
   -is it okay if my child want to switch courses in between?
   -I want my kid to transfer from mobile app development to A.I course, is this possible? 
 
 -intents: Study_Materials
- examples:
+ examples:  |
   -Do you  recommend any books for python coding ?
   -Do you  recommend any books for an 8-10 year old kid coding ?
 
