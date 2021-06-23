@@ -390,6 +390,21 @@ steps:
 - intent: Yes_
 - action: utter_yes
 
+- story: word_coding_org
+steps:
+- intent: word_coding
+- action: utter_word_coding
+
+- story: value_added_course_org
+steps:
+- intent: value_added_course
+- action: utter_value_added_course
+
+-story: contact_instructor_org
+steps:
+- intent: contact_instructor
+- action: utter_contact_instructor
+
 - story: about_assignment
 steps:
 - intent: About_assignment
