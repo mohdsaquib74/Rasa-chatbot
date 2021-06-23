@@ -69,6 +69,8 @@ intents:
   - word_coding
   - value_added_course
   - contact_instructor
+  - Python_Scope
+  - About_Python
   - upgrade_course
   - About_phone_and_laptop
   - About_assignment
@@ -233,7 +235,7 @@ responses:
   - text: "Manish Motghare"
 
   utter_workshop:
-  - text: We do not conduct workshops.
+  - text: We do not conduct workshops. In future we are deciding to start many workshops.
   
   utter_tie_up:
   - text: We do not have any tie-ups yet, we are looking forward to it.
@@ -270,6 +272,12 @@ responses:
   
   utter_contact_instructor:
   - text: Our quick resolution team is 24*7 available for resolve any queries or question
+  
+  utter_Python_Scope:
+  - text: There is a huge scope in learning Python as it is used in many field like Machine learning, Deep learning etc, its user friendly and easy to learn. Which comes with good salary.
+  
+  utter_About_Python:
+  - text: Python is a programming language which is user friendly and easy to learn. Which has a high scope in future.
 
   utter_assignment:
   - text: "Yes assignment will be assigned"
