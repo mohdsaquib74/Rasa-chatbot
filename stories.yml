@@ -477,3 +477,204 @@ steps:
 - action: utter_basic_course
 
 
+
+- story: vision cky
+  steps:
+  - intent: vision_cky
+  - action: utter_vision_cky
+
+- story: level up
+  steps:
+  - intent: level_up
+  - action: utter_level_Up
+
+- story: suitable
+  steps:
+  - intent:  suitable
+  - action: utter_suitable
+
+- story: Book Procedure
+  steps:
+  - intent: Book_procedure_platform
+  - action: utter_book_procedure_platform
+
+- story: rating across
+  steps:
+  - intent:  rating_across_platform
+  - action: utter_rating
+
+- story: Python easy
+  steps:
+  - intent:  Python_easy
+  - action: utter_python_easy
+
+- story: first grade
+  steps:
+  - intent:  first_grade_python
+  - action: utter_frist_grade_python
+
+- story: tenth standard
+  steps:
+  - intent: tenth_standard
+  - action: utter_tenth_standard
+
+- story: computer games
+  steps:
+  - intent: computer_games
+  - action: utter_computer_games
+
+- story: time table
+  steps:
+  - intent: hours_time_table
+  - action: utter_hours_time_table
+
+- story: difficult to learn
+  steps:
+  - intent: difficut_to_learn
+  - action: utter_difficut_to_learn
+
+- story: contact please
+  steps:
+  - intent: contact_please
+  - action: utter_contact_please
+
+- story: encourage engage
+  steps:
+  - intent: encourage_engage
+  - action: utter_encourage_engage
+
+- story: boring kids
+  steps:
+  - intent:  boring_for_kids
+  - action: utter_boring_for_kids
+
+- story: python apps
+  steps:
+  - intent: application_python
+  - action: utter_application_python
+
+- story: payment mode
+  steps:
+  - intent: payment_mode
+  - action:  utter_payment_mode
+
+- story: expired
+  steps:
+  - intent: expiry_date
+  - action: utter_expiry_date
+
+- story: the way of
+  steps:
+  - intent: way_of
+  - action: utter_way_of
+
+- story: too much complexity
+  steps:
+  - intent: too_complex
+  - action: utter_too_complex
+
+- story: List of courses
+  steps:
+  - intent: List_courses
+  - action:  utter_list_courses
+
+- story: belong wes
+  steps:
+  - intent:  weaker_economic
+  - action:  utter_weaker_economic
+
+- story: extension planning
+  steps:
+  - intent: extension_plans
+  - action: utter_extension_plans
+
+- story: daily curriculum
+  steps:
+  - intent: curriculam
+  - action:  utter_curriculum
+
+- story: askcky content
+  steps:
+  - intent:  content
+  - action: utter_content
+
+- story: cky branches
+  steps:
+  - intent: branch
+  - action: utter_branches
+
+- story: mobile cost dev
+  steps:
+  - intent: cost_mobile_development
+  - action: utter_cost_mobile
+
+- story: web cost dev
+  steps:
+  - intent: cost_web
+  - action: utter_cost_web
+
+- story: can maha
+  steps:
+  - intent:  cky_maha
+  - action: utter_cky_maha
+
+- story: cky about linux
+  steps:
+  - intent: linux_course
+  - action:  utter_linux_course
+
+- story: grades kids
+  steps:
+  - intent: higher_grades
+  - action: utter_higher_grades
+
+- story: courses available content
+  steps:
+  - intent: courses_current
+  - action: utter_courses_available
+
+- story: older kid
+  steps:
+  - intent: old_kid
+  - action: utter_old_kid
+
+- story: offline online
+  steps:
+  - intent: online_offline
+  - action: utter_online_offline
+
+- story: ways to cky
+  steps:
+  - intent: ways_cky
+  - action: utter_ways_cky
+
+- story: qualification faculty
+  steps:
+  - intent: qualified
+  - action:  utter_qualified
+
+- story: suggest kids
+  steps:
+  - intent: suggest_kid
+  - action: utter_suggest_kid
+
+- story: group or single
+  steps:
+  - intent:  group_person
+  - action:  utter_group_person
+
+- story: suggest her
+  steps:
+  - intent:  suggest_daughter
+  - action:  utter_suggest_daughter
+
+- story: how many
+  steps:
+  - intent:  how_many
+  - action: utter_how_many
+
+
+
+
+
+
