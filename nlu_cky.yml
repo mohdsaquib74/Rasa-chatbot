@@ -730,6 +730,7 @@ nlu:
         - Can I exclude Web development from starter course for grade 5-7 and get a concession?
         - Can I exclude Web development from intermediate course for grade 5-7 and get a concession?
         - Can I exclude Web development from professional course for grade 5-7 and get a concession?
+        - Can I remove Mobile app development from starter course for grade 10+?
         
 - intent: no_basic_classes
   examples: |
@@ -1103,4 +1104,176 @@ nlu:
      - What is dance with coding?
      - What is artist lab?
      - How will you build logic for my kid?
+     
+     
+
+
+intent: vision_cky
+  examples: |
+    - What are the Visions of your code karo yaaro? 
+    - Are you a "Jack of All trades" company or do you focus only on coding for kids?
+    - Why should I choose codeKaroYaro for my kid?
+
+  intent: level_up
+  examples: |
+    - what is the level of python in 8 grade ?
+    - what is the level of python in 9 grade ?
+    - what is the level of python in 10  grade ?
+
+  intent: suitable
+  examples: |
+    - Which programming language is suitable for my child to learn?
+    - How Many Topic Areas Will You Teach?
+
+  intent: Book_procedure_platform
+  examples: |
+    - How can we book free trial session?
+    - what is the procedure of registration?
+    - What services does your platform provide?
+
+  intent: rating_across_platform
+  examples: |
+    - what is your rating ?
+    - what makes you different from others ?
+
+  intent: Python_easy
+  examples: |
+    - How is Python programming language better for my kid?
+
+  intent: first_grade_python
+  examples: |
+    - my child is in first grade does he have to learn code
+
+  intent: tenth_standard
+  examples: |
+    - how much time does it take for a 10th standard kid to become a full stack developer?
+
+  intent: computer_games
+  examples: |
+    - why are classes based on computer games?
+
+  intent: hours_time_table
+  examples: |
+    - How many hours do you take classes every day?
+
+  intent: difficut_to_learn
+  examples: |
+    - Is Python Programming for Kids Difficult to Learn?
+
+  intent: contact_please
+  examples: |
+    - any contacts details for further guide
+    - Which is the latest version of scratch?
+
+  intent: encourage_engage
+  examples: |
+    - My child has no interest in coding. How can I engage and encourage him?
+
+  intent: boring_for_kids
+  examples: |
+    - Is coding boring? Will my kid enjoy it?
+
+  intent: application_python
+  examples: |
+    - applications of python?
+
+  intent: payment_mode
+  examples: |
+    - What are payment mode available in your site for purchasing course ?
+
+  intent: expiry_date
+  examples: |
+    - WHERE CAN I FIND THE EXPIRATION DATE FOR MY SUBSCRIPTION?
+
+  intent: way_of
+  examples: |
+    - Do they teach using visual block coding or text-based languages?
+
+  intent: too_complex
+  examples: |
+    - Isn't programming too complex for kids?
+
+  intent: List_courses
+  examples: |
+    - Show me the list of courses available
+
+  intent: weaker_economic
+  examples: |
+    - do I get a discount, if I belong to weaker economic section?
+
+  intent: extension_plans
+  examples: |
+    - Do you have any extension plans in your institution? 
+
+  intent: curriculam
+  examples: |
+    - How did you develop your curriculum?
+
+  intent: content
+  examples: |
+    - What would be contents of python progrmaming course?
+
+  intent: branch
+  examples: |
+    - where is your primary office in India ?
+
+  intent: cost_mobile_development
+  examples: |
+    - what is the cost of mobile app development course?
+
+  intent: cost_web
+  examples: |
+    - what is the cost of web development course for a year?
+
+  intent: cky_maha
+  examples: |
+    - CKY's office in maharashtra?
+
+  intent: linux_course
+  examples: |
+    - do you offer courses in linux as well?
+
+  intent: higher_grades
+  examples: |
+    - Do you offer coding classes for higher grades ?
+
+  intent: courses_current
+  examples: |
+    - How many types of courses are currently available on your platfrom?
+
+  intent: old_kid
+  examples: |
+    - How old my child must be to learn coding ?
+
+  intent: online_offline
+  examples: |
+    - CKY teaches programming in offline classes or through online classes  ?
+
+  intent: ways_cky
+  examples: |
+    - what are the best available ways to learn programming at your institute?
+
+  intent: qualified
+  examples: |
+    - How many qualified teachers do you have for coding course?
+
+  intent: suggest_kid
+  examples: |
+    - My kid is new to programming, suggest entry level course for him?
+
+  intent: group_person
+  examples: |
+    - Do you offer group classes or private classes?
+
+  intent: suggest_daughter
+  examples: |
+    - My daughter is in 12th standard and she wants to be a data scientists. Please suggest a course best suited for her.
+
+  intent: how_many
+  examples: |
+    - How many programs are there in CKY which are helpful for my kid ?
+
+
+
+
     
