@@ -329,6 +329,125 @@ responses:
   utter_fees:
   - text:  Anual packages courses are for students in 10+ grades worth 12000/- Rupees
   - text: monthly 1000/- rupees
+  
+  
+  
+  utter_vision_cky:
+  - text : We at CodeKaroYaaro empowering every kid to become a Computer Science Expert by teaching them to develop mobile apps, gaming apps, websites, web applications and AI-Powered Mobile Apps.
+  utter_level_Up:
+  - text: We begin with teaching the basics of python to game development, web based application development and applicaion development.
+  utter_suitable:
+  - text: This depends on the age of the child and if the child has prior knowledge of computer programming. Call to talk with our counselor to find out which course is most appropriate for your child.
+
+  utter_book_procedure_platform:
+  - text: Visit https://www.codekaroyaaro.com/ or call us at +91 8010996763
+
+  utter_rating:
+    - text: We are able to secure a perfect 5 star accross various platforms.
+
+  utter_python_easy:
+    - text: This is very popular and easy language which makes it better for kids to learn.
+
+  utter_frist_grade_python:
+    - text: this will provide strong basic platform for your kid.
+
+  utter_tenth_standard:
+    - text: Three months is generally the minimum amount of time required.
+
+  utter_computer_games:
+    - text: Through computer games it become easy for kids to understand the coding.
+
+  utter_hours_time_table:
+    - text: Time table will be provided as per requirement
+
+  utter_difficut_to_learn:
+    - text: To keep things simple, no Python is not difficult to learn. With a little patience and time, Python for kids shouldn’t be difficult at all. That combined with our python programming course getting a hold of the language is as easy using the application created with python!
+
+  utter_contact_please:
+    - text: To know more details, CodeKaroYaaro warmly welcomes you. please visit our website to check the courses or contact us on Phone - +91 8010996763.
+
+  utter_encourage_engage:
+    - text: Truth is that all they need is to attend a session which engages them and showcases coding as an exciting, creative subject. Often students who have no interest in coding have had a bad experience and have decided that coding is either too difficult or too boring. Having coding sessions with a group of their friends is also a good way to encourage them to start.
+
+  utter_boring_for_kids:
+    - text: Ultimately, kids that enjoy programming generally seek it out. But exposure is key​. Depending on the age of the child, you may need to do a fun project together
+
+  utter_application_python:
+    - text: used in game development,application development,machine learning and many other fields.
+
+  utter_payment_mode:
+    - text: Visa/MasterCard/Maestro Cards, Net Banking, Wallet, UPI
+
+  utter_expiry_date:
+    - text: Visit our website and login with your id.
+
+  utter_way_of:
+    - text: Visual Block coding
+
+  utter_too_complex:
+    - text: visual-based programming, such as Blockly, that uses blocks like pre-created code, and ensures kids can focus on the fundamental programming logic.
+
+  utter_list_courses:
+    - text: Web Development, Mobile App Development, Artificial Intelligence, Python Programming, Game App Development
+
+  utter_weaker_economic:
+    - text: We also provide free video lectures for students who belong to weaker economic sections. Kindly contact us for further information +91 8010996763.
+
+  utter_extension_plans:
+    - text: We are extending every coming day by adding more students benefits with our courses and giving the coding skills to the kids.
+
+  utter_curriculum:
+    - text: We built lessons that include experiments, case studies and activities.
+
+  utter_content:
+    - text: We cover topics from basics to advanced level in python programming.
+
+  utter_branches:
+    - text: We have our primary office in Nagpur, Maharashtra.
+
+  utter_cost_mobile:
+    - text: We have basic course for 1 month at 2,800, then we have starter course at 15,360, we have yearly plan of 26,880. In three of them we have mobile app development course
+
+  utter_cost_web:
+    - text: We have yearly plan of 26,880 in which we have 96 super sessions that include introduction to programming languages, Game App + Web Development etc.
+
+  utter_cky_maha:
+    - text: yes , we have our main branch in Maharastra
+
+  utter_linux_course:
+    - text: We have C, C++ that can help you with linux.
+
+  utter_higher_grades:
+    - text: We have coding classes upto 12th standard.
+
+  utter_courses_available:
+    - text: we have course for every grade student in three category-1.Starter    2.Intermediate    3.Professional
+
+  utter_old_kid:
+    - text: Atleast 5 years old, We have courses for different age groups. Starting from Grade 1 to Grade 10+.
+
+  utter_online_offline:
+    - text: we have live as well as recorded classes in CKY
+
+  utter_ways_cky:
+    - text: we have live classes with the teaching profesionals , with Mentor support in accelerating learning.
+
+  utter_qualified:
+    - text: We have many specialized teachers for every particular course.
+
+  utter_suggest_kid:
+    - text: Scratch Programming course
+
+  utter_group_person:
+    - text: We have options for both types of classes.
+
+  utter_suggest_daughter:
+    - text: Our faculty members also provide a carreer guidance demo class. Please contact us to book a trial class. Contact us at +918010996763
+
+  utter_how_many:
+    - text: We have various helpful programs ,to know more visit on our
+    - website: https://www.codekaroyaaro.com/
+
 
 
 
@@ -386,3 +505,47 @@ actions:
 - utter_time_slot_and_mentor_change
 - utter_discounts
 - utter_fees
+- utter_Can_I
+- utter_vision_cky
+- utter_level_Up
+- utter_suitable
+- utter_book_procedure_platform
+- utter_rating
+- utter_python_easy
+- utter_frist_grade_python
+- utter_tenth_standard
+- utter_computer_games
+- utter_hours_time_table
+- utter_difficut_to_learn
+- utter_contact_please
+- utter_encourage_engage
+- utter_boring_for_kids
+- utter_application_python
+- utter_payment_mode
+- utter_expiry_date
+- utter_way_of
+- utter_too_complex
+- utter_list_courses
+- utter_weaker_economic
+- utter_extension_plans
+- utter_curriculum
+- utter_content
+- utter_branches
+- utter_cost_mobile
+- utter_cost_web
+- utter_cky_maha
+- utter_linux_course
+- utter_higher_grades
+- utter_courses_available
+- utter_old_kid
+- utter_online_offline
+- utter_ways_cky
+- utter_qualified
+- utter_suggest_kid
+- utter_group_person
+- utter_suggest_daughter
+- utter_how_many
+
+
+
+
