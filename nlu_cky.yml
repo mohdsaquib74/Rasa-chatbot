@@ -130,7 +130,7 @@ nlu:
    - What course options do you have for older/younger children?
 
 -intent: About_Python
- examples:
+ examples:  |
    - why should my child learn python compared to any other language.
    - What is Python?
    - Is python the right language for my child?
@@ -210,6 +210,8 @@ nlu:
    - My son is in 9th standard which programming language is best for him? 
    - My son is in 8th standard which programming language is best for him? 
    - My kid is in 10th standard, which programming language would help him in his further studies? 
+   - which programming language will be good for beginners?
+
 
 -intents: Benefit_of_c++_Programming
  examples:
@@ -736,6 +738,8 @@ nlu:
 - intent: why_cky
   examples: |
     -why should I choose codeKaroYaro? 
+    - How is this distinct from other online programs ?
+
 
 - intent: expirience
   examples: |
